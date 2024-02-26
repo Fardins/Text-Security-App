@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile Application Lab/Project/Part-1/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-10/app/src/main/res/layout/activity_decoder.xml" value="0.14673913043478262" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-10/app/src/main/res/layout/activity_encoder.xml" value="0.20199275362318841" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-10/app/src/main/res/layout/activity_main.xml" value="0.14673913043478262" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-11/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-11/app/src/main/res/layout/activity_part3.xml" value="0.19791666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-12/app/src/main/res/layout/activity_decoder.xml" value="0.19384057971014493" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-12/app/src/main/res/layout/activity_encoder.xml" value="0.19384057971014493" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-12/app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-12/app/src/main/res/layout/activity_part3.xml" value="0.19384057971014493" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-13/app/src/main/res/layout/activity_decoder.xml" value="0.1897644927536232" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-13/app/src/main/res/layout/activity_encoder.xml" value="0.1766304347826087" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-13/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-2/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-3/app/src/main/res/layout/activity_encoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-4/app/src/main/res/layout/activity_decoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-4/app/src/main/res/layout/activity_encoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-4/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-5/app/src/main/res/layout/activity_decoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-5/app/src/main/res/layout/activity_encoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-6/app/src/main/res/layout/activity_decoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-6/app/src/main/res/layout/activity_encoder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-7/app/src/main/res/drawable/outerframe1.xml" value="0.21574074074074073" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-7/app/src/main/res/layout/activity_decoder.xml" value="0.15" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-7/app/src/main/res/layout/activity_encoder.xml" value="0.18" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-7/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-8/app/src/main/res/layout/activity_decoder.xml" value="0.1" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-9/app/src/main/res/drawable/outerframe1.xml" value="0.2169230769230769" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-9/app/src/main/res/layout/activity_decoder.xml" value="0.2" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-9/app/src/main/res/layout/activity_encoder.xml" value="0.18" />
+        <entry key="..\:/Mobile Application Lab/Project/Part-9/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
